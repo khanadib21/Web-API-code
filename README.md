@@ -15,7 +15,7 @@ The task for module 4 Challenge was to build a timed coding quiz with multiple-c
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
 [Developer Website Link](https://khanadib21.github.io/Password-Generator-Code/)
-![Developer Portfolio Website](./Screenshot%202023-05-18%20133341.jpg)
+![Developer Portfolio Website](./Screenshot%202023-05-25%20213817.jpg)
 ## Credits
 NOTE: Click preview pictures to navigate to the referenced site
 ### Git Cheat Sheet (pdf)
@@ -31,7 +31,7 @@ NOTE: Click preview pictures to navigate to the referenced site
 ### Web API Elements
 [![Object Methods 2](https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName)
 
-## Thank you all for the help, instructors, TA's and peers. The starter code has helped me to get started on this assignment. The lectures, activities and study group sessions have helped me to learn a lot better. Eli has provided a hint of how to start the code in class.
+## Thank you all for the help, instructors, TA's and peers. The lectures, activities and study group sessions have helped me to learn a lot better. Eli has provided a hint of how to start the code in class.
 ## License
 MIT License
 Copyright (c) [year] [fullname]

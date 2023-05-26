@@ -9,22 +9,22 @@ document.addEventListener('DOMContentLoaded', function() {
     {
       question: 'What is the capital of Bangladesh?',
       choices: ['Paris', 'London', 'Berlin', 'Dhaka'],
-      answer: 'Paris'
+      answer: 'Dhaka'
     },
     {
       question: 'What is the capital of India?',
       choices: ['Paris', 'London', 'Delhi', 'Dhaka'],
-      answer: 'Paris'
+      answer: 'Delhi'
     },
     {
       question: 'What is the capital of United States?',
       choices: ['Paris', 'Delhi', 'Delhi', 'DC'],
-      answer: 'Paris'
+      answer: 'DC'
     },
     {
       question: 'What is the capital of Malaysia?',
       choices: ['Paris', 'Delhi', 'Kualalampur', 'Dhaka'],
-      answer: 'Paris'
+      answer: 'Kualalampur'
     },
     
   ];
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (selectedChoice.textContent === currentQuestion.answer) {
       score++;
     } else {
-      time -= 10; // Deduct 10 seconds for wrong answer
+      time -= 10;
     }
 
     currentQuestionIndex++;
